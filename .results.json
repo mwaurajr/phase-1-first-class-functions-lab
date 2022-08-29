@@ -5,15 +5,15 @@
     "passes": 13,
     "pending": 0,
     "failures": 0,
-    "start": "2022-08-23T08:40:06.048Z",
-    "end": "2022-08-23T08:40:10.195Z",
-    "duration": 4147
+    "start": "2022-08-29T09:18:41.720Z",
+    "end": "2022-08-29T09:18:44.947Z",
+    "duration": 3227
   },
   "tests": [
     {
       "title": "should return a new array containing the first two drivers from the passed-in array",
       "fullTitle": "index.js returnFirstTwoDrivers() should return a new array containing the first two drivers from the passed-in array",
-      "duration": 29,
+      "duration": 9,
       "currentRetry": 0,
       "err": {}
     },
@@ -34,28 +34,28 @@
     {
       "title": "has the `returnLastTwoDrivers` function to as its last element",
       "fullTitle": "index.js selectingDrivers has the `returnLastTwoDrivers` function to as its last element",
-      "duration": 1,
+      "duration": 2,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "allows us to invoke either function from the array",
       "fullTitle": "index.js selectingDrivers allows us to invoke either function from the array",
-      "duration": 2,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "returns a function",
       "fullTitle": "index.js createFareMultiplier() returns a function",
-      "duration": 16,
+      "duration": 3,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "should multiply a given value using the created multiplier",
       "fullTitle": "index.js createFareMultiplier() should multiply a given value using the created multiplier",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -90,14 +90,14 @@
     {
       "title": "returns the first two drivers when passed returnFirstTwoDrivers() as the second argument",
       "fullTitle": "index.js selectDifferentDrivers(arrayOfDrivers, function) returns the first two drivers when passed returnFirstTwoDrivers() as the second argument",
-      "duration": 2,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "returns the last two drivers when passed returnLastTwoDrivers() as the second argument",
       "fullTitle": "index.js selectDifferentDrivers(arrayOfDrivers, function) returns the last two drivers when passed returnLastTwoDrivers() as the second argument",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     }
@@ -108,7 +108,7 @@
     {
       "title": "should return a new array containing the first two drivers from the passed-in array",
       "fullTitle": "index.js returnFirstTwoDrivers() should return a new array containing the first two drivers from the passed-in array",
-      "duration": 29,
+      "duration": 9,
       "currentRetry": 0,
       "err": {}
     },
@@ -129,28 +129,28 @@
     {
       "title": "has the `returnLastTwoDrivers` function to as its last element",
       "fullTitle": "index.js selectingDrivers has the `returnLastTwoDrivers` function to as its last element",
-      "duration": 1,
+      "duration": 2,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "allows us to invoke either function from the array",
       "fullTitle": "index.js selectingDrivers allows us to invoke either function from the array",
-      "duration": 2,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "returns a function",
       "fullTitle": "index.js createFareMultiplier() returns a function",
-      "duration": 16,
+      "duration": 3,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "should multiply a given value using the created multiplier",
       "fullTitle": "index.js createFareMultiplier() should multiply a given value using the created multiplier",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -185,14 +185,14 @@
     {
       "title": "returns the first two drivers when passed returnFirstTwoDrivers() as the second argument",
       "fullTitle": "index.js selectDifferentDrivers(arrayOfDrivers, function) returns the first two drivers when passed returnFirstTwoDrivers() as the second argument",
-      "duration": 2,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "returns the last two drivers when passed returnLastTwoDrivers() as the second argument",
       "fullTitle": "index.js selectDifferentDrivers(arrayOfDrivers, function) returns the last two drivers when passed returnLastTwoDrivers() as the second argument",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     }
